@@ -5,7 +5,7 @@
   <a href="https://she-grow.vercel.app/">
     <img alt="Live Demo" src="https://img.shields.io/badge/🚀_Live_Demo-8A2BE2?style=for-the-badge">
   </a>
-  <a href="https://github.com/techaakritisha/She-Grow">
+  <a href="https://github.com/techaakritisha/she-grow-again">
     <img alt="GitHub" src="https://img.shields.io/badge/💻_Source_Code-4B0082?style=for-the-badge">
   </a>
 </div>
@@ -39,6 +39,6 @@ Women entrepreneurs face a **$300B global funding gap**. Traditional loans deman
 - Try the demo: [she-grow.vercel.app](https://she-grow.vercel.app/)  
 - For developers:  
   ```bash
-  git clone https://github.com/techaakritisha/She-Grow.git
+  git clone https://github.com/techaakritisha/she-grow-again
   cd She-Grow && npm install
   npm run dev
